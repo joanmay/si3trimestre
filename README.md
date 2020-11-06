@@ -1,3 +1,2 @@
 # Ejercicios tercer trimestre
-Ejercicios de uso de git y github
-Autor: Joan
+Ejercicios de uso de git y github by Joan
