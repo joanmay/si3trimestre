@@ -3,21 +3,14 @@
 
 using namespace std;
 
-int main() {
+void hola() {
 
-    string hola=” ”;
-    cout << "Hola” << hola << ”Mundo" << endl;
-
-    return 0;
+  cout << "Hola Mundo" << endl;
 }
 
-int main () {
+int main() {
 
-
-  string hola = NULL;
-  int holaa = 9;
-  
-  holaa = hola(holaa);
+  hola ();
   
   return 0;
 }
