@@ -9,4 +9,15 @@ int main() {
     cout << "Hola” << hola << ”Mundo" << endl;
 
     return 0;
+}
 
+int main () {
+
+
+  string hola = NULL;
+  int holaa = 9;
+  
+  holaa = hola(holaa);
+  
+  return 0;
+}
